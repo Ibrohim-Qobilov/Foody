@@ -1,0 +1,33 @@
+class APPIcons{
+  static String back = "assets/icons/back.svg";
+  static String camera = "assets/icons/camera.svg";
+  static String card = "assets/icons/card.svg";
+  static String cart = "assets/icons/cart.svg";
+  static String clock = "assets/icons/clock.svg";
+  static String close = "assets/icons/close.svg";
+  static String delivery = "assets/icons/delivery.svg";
+  static String document = "assets/icons/document.svg";
+  static String done = "assets/icons/done.svg";
+  static String facebook = "assets/icons/facebook.svg";
+  static String fastDelivery = "assets/icons/fast-delivery.svg";
+  static String fire = "assets/icons/fire.svg";
+  static String food = "assets/icons/food.svg";
+  static String forward = "assets/icons/forward.svg";
+  static String home = "assets/icons/home.svg";
+  static String invisible = "assets/icons/invisible.svg";
+  static String navigator = "assets/icons/navigator.svg";
+  static String location = "assets/icons/location.svg";
+  static String lock = "assets/icons/lock.svg";
+  static String logout = "assets/icons/logout.svg";
+  static String minus = "assets/icons/minus.svg";
+  static String plus = "assets/icons/plus.svg";
+  static String notify = "assets/icons/notify.svg";
+  static String order = "assets/icons/older.svg";
+  static String phone = "assets/icons/phone.svg";
+  static String profile = "assets/icons/profile.svg";
+  static String rating = "assets/icons/rating.svg";
+  static String recomended = "assets/icons/recomended.svg";
+  static String search = "assets/icons/search.svg";
+  static String share = "assets/icons/share.svg";
+  static String visible = "assets/icons/visible.svg";
+}
