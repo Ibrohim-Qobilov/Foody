@@ -22,7 +22,7 @@ class APPIcons{
   static String minus = "assets/icons/minus.svg";
   static String plus = "assets/icons/plus.svg";
   static String notify = "assets/icons/notify.svg";
-  static String order = "assets/icons/older.svg";
+  static String order = "assets/icons/order.svg";
   static String phone = "assets/icons/phone.svg";
   static String profile = "assets/icons/profile.svg";
   static String rating = "assets/icons/rating.svg";
