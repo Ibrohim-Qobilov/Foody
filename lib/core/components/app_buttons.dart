@@ -15,7 +15,7 @@ ElevatedButton buttonView(BuildContext context, text, page) {
     onPressed: () {
       Navigator.pushNamed(context, page);
     },
-    child: Text(text),
+    child: Text(text,style: TextStyle(fontSize: getProportionateScreenHeight(20.0)),),
   );
 }
 
@@ -45,9 +45,9 @@ ElevatedButton buttonView(BuildContext context, text, page) {
             child: SvgPicture.asset(icon),
           ),
           SizedBox(
-            width: getProportionateScreenWidth(60.0),
+            width: getProportionateScreenWidth(40.0),
           ),
-          Text(text),
+          Text(text,style: TextStyle(fontSize: getProportionateScreenHeight(20),),),
         ],
       ),
     );
