@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Foody',
       initialRoute: '/',
-     onGenerateRoute: (setting) => RouteManager.generaRouter(setting),
+      onGenerateRoute: (setting) => RouteManager.generaRouter(setting),
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
