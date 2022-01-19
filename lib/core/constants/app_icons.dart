@@ -30,4 +30,5 @@ class APPIcons{
   static String search = "assets/icons/search.svg";
   static String share = "assets/icons/share.svg";
   static String visible = "assets/icons/visible.svg";
+  static String google = "assets/icons/google.svg";
 }
