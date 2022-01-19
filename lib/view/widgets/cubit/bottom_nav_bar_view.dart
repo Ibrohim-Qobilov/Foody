@@ -27,7 +27,7 @@ class BottomNavBarView extends StatelessWidget {
               BottomNavigationBarItem(
                 icon: SvgPicture.asset(APPIcons.home,color: _context.pageIndex == 0 ? AppColors.greenColor : AppColors.greyColor,),
                 label: "Home" ,
-                
+                // hello
               ),
               BottomNavigationBarItem(
                 icon: SvgPicture.asset(APPIcons.search,color: _context.pageIndex == 1 ? AppColors.greenColor : AppColors.greyColor,),
